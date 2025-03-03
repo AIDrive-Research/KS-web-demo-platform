@@ -5,12 +5,12 @@
 
 - 三个修改该项在下图位置处修改。
 
-  ![index](.\assets\index.png)
+  ![index](assets/index.png)
 
 
 
 - accessKey、accessSecret需要登录平台后查看，详见下图所示：
-  ![image-accesskey](.\assets\accesskey.png)
+  ![accesskey](assets/accesskey.png)
 
 3. 双击index.html打开，即可使用示例代码。
 
